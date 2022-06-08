@@ -1,6 +1,4 @@
-# platzi-curso-practivo-javascript
-
-...
+# 🌟 Curso Practico de JavaScript de Platzi 💚
 
 ## Taller 1 #1: Figuras geométricas
 
